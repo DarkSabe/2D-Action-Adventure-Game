@@ -1,0 +1,67 @@
+E:\DeadpoolAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.exe.config
+E:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csprojResolveAssemblyReference.cache
+E:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.GameForm.resources
+E:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.Properties.Resources.resources
+E:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csproj.GenerateResource.Cache
+E:\DeadpoolAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.exe
+E:\DeadpoolAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.pdb
+E:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.exe
+E:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.pdb
+F:\DeadpoolAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.exe.config
+F:\DeadpoolAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.exe
+F:\DeadpoolAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.pdb
+F:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csprojResolveAssemblyReference.cache
+F:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.GameForm.resources
+F:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.Properties.Resources.resources
+F:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csproj.GenerateResource.cache
+F:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csproj.CoreCompileInputs.cache
+F:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.exe
+F:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.pdb
+F:\DeadpoolAssignment\DeadpoolAssignment\bin\Debug\Interop.WMPLib.dll
+F:\DeadpoolAssignment\DeadpoolAssignment\bin\Debug\AxInterop.WMPLib.dll
+F:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\Interop.WMPLib.dll
+F:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\AxInterop.WMPLib.dll
+F:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csproj.ResolveComReference.cache
+E:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\Interop.WMPLib.dll
+E:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\AxInterop.WMPLib.dll
+E:\DeadpoolAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csproj.ResolveComReference.cache
+E:\DeadpoolAssignment\DeadpoolAssignment\bin\Debug\Interop.WMPLib.dll
+E:\DeadpoolAssignment\DeadpoolAssignment\bin\Debug\AxInterop.WMPLib.dll
+F:\ZeldaAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.exe.config
+F:\ZeldaAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.exe
+F:\ZeldaAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.pdb
+F:\ZeldaAssignment\DeadpoolAssignment\bin\Debug\Interop.WMPLib.dll
+F:\ZeldaAssignment\DeadpoolAssignment\bin\Debug\AxInterop.WMPLib.dll
+F:\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csprojResolveAssemblyReference.cache
+F:\ZeldaAssignment\DeadpoolAssignment\obj\Debug\Interop.WMPLib.dll
+F:\ZeldaAssignment\DeadpoolAssignment\obj\Debug\AxInterop.WMPLib.dll
+F:\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csproj.ResolveComReference.cache
+F:\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.GameForm.resources
+F:\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.Properties.Resources.resources
+F:\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csproj.GenerateResource.cache
+F:\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csproj.CoreCompileInputs.cache
+F:\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.exe
+F:\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.pdb
+F:\ZeldaAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.exe.manifest
+F:\ZeldaAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.application
+F:\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.exe.manifest
+F:\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.application
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.exe.config
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.exe.manifest
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.application
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.exe
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\bin\Debug\DeadpoolAssignment.pdb
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csproj.ResolveComReference.cache
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.GameForm.resources
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.Properties.Resources.resources
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csproj.GenerateResource.cache
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.exe.manifest
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.application
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.exe
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.pdb
+C:\Users\Jaden\Desktop\New folder (2)\ZeldaAssignment\DeadpoolAssignment\obj\Debug\DeadpoolAssignment.csprojAssemblyReference.cache
